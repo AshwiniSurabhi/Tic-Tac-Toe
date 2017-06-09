@@ -1,0 +1,12 @@
+body{
+  background-color:black;
+}
+h1,h2{
+  color:white;
+}
+#buts,#screen{
+  padding-top:10px;
+}
+.pos{
+  margin-left : 570px;
+}
